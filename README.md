@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drclcomputers
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++ and C.
+- 🌱 I’m currently learning C and C++.
 - 💞️ I’m looking to collaborate on making an OS.
 - ⚡ Fun fact: I've been coding since 5th grade, but recently I started taking it more seriously.
 
