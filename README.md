@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **making an OS.**
 
-- 🤝 I’m looking for help with **whatever I can.**
+- 🤝 I’m looking to help with **whatever I can.**
 
 - ⚡ Fun fact **I tell people I use Linux, but I still use Windows.**
 
